@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Device Location</string>
+    <string name="weather_api_key">380199723cebdb85ef2e16cc30cee5b6</string>
+</resources>
